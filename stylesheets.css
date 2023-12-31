@@ -191,7 +191,8 @@ span {
 
 .aboutimg img {
 
-    height: 350px;
+    height: 400px;
+    width: 400px;
     margin-left: 115px;
     max-width: 630px;
     border-radius: 10px;
